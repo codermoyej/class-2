@@ -1,0 +1,45 @@
+body{
+	margin: 0;
+}
+.container{
+	width: 100%;
+	height: auto;
+}
+.col1{
+	width: 40%;
+	background: #DC965A;
+/*! overflow: hidden; */
+	float: left;
+	height: auto;
+}
+.col2{
+	width: 50%;
+	background: #ffffff;
+	/*! overflow: hidden; */
+	text-align: left;
+	float: right;
+	padding: 124px 48px;
+	/*! margin: 0 3%; */
+	display: block;
+}
+img{
+	width:400px;
+	height: auto;
+	padding-top: 20px;
+	padding-left: 40%;
+}
+.col2 h1{
+
+	font-size: 40px;
+	font-weight: 800;
+}
+.col2 h4{
+
+	font-size: 20px;
+}
+.col2 p{
+
+}
+.col2 a{
+
+}
